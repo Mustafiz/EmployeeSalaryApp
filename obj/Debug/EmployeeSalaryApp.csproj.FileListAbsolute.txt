@@ -1,0 +1,14 @@
+E:\csharp-practice\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+E:\csharp-practice\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+E:\csharp-practice\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+E:\csharp-practice\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.CodeAnalysisLog.xml
+E:\csharp-practice\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.lastcodeanalysissucceeded
+E:\csharp-practice\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+E:\csharp-practice\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.EmployeeSalaryAppUI.resources
+E:\csharp-practice\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+E:\csharp-practice\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+E:\csharp-practice\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+E:\csharp-practice\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
+H:\mustafiz\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+H:\mustafiz\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+H:\mustafiz\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
